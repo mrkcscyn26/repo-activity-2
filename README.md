@@ -1,1 +1,1 @@
-# repo-collab-activity-2
+# repo-activity-2
