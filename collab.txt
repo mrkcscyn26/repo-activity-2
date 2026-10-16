@@ -1,3 +1,4 @@
 Hello Jan Jefferson!
 Hi Collaborator!
-I added this line, the Collaborator!'A sample line added by me, the owner.'
+I added this line, the Collaborator!
+A sample line added by me, the owner.
